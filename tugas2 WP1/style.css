@@ -35,7 +35,6 @@ body{
     box-shadow: 10px 20px 20px 5px lawngreen;
     transition: 2s;
     
-
 }
 
 .link{
@@ -75,8 +74,7 @@ button{
     top: -50px;
     left: calc(50% - 150px);
     border-radius: 10px;
-    transition: 1.5s;
-    
+    transition: 1.5s;  
 
        
 }
